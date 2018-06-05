@@ -46,6 +46,12 @@ minutes = seconds // 60     # Find minutes in seconds
 remainingSeconds = seconds % 60   # Seconds remaining
 print(seconds, "seconds is", minutes, "minutes and", remainingSeconds, "seconds")
 ```
+python3 
+```
+python3 a2.py
+Enter an integer for seconds: 1210
+1210 seconds is 20 minutes and 10 seconds
+```
 
 # 2.3:二進位,八進位,十進位與十六進位
 
